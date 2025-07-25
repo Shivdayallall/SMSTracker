@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "11769834997",
+    "firebase_url": "https://smstracker-4ad94-default-rtdb.firebaseio.com",
+    "project_id": "smstracker-4ad94",
+    "storage_bucket": "smstracker-4ad94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11769834997:android:a54c31238ffd858268c4bc",
+        "android_client_info": {
+          "package_name": "com.example.samsungprotect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcV5kFyl9IAbnNcKjrSv2DNAjAKO5V7F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
